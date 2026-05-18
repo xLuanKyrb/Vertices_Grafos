@@ -25,3 +25,8 @@ The system was modularized into three main classes to organize testing and real-
 * 0 - Sair
 
 *Escolha uma opção: 1 (According to activity)*
+
+# Complexity Analysis
+* Algorithm: Greed Approximation (Vertex Cover 2-Approx Style)
+* Time Complexity: O(|V| + |E|), where |V| is the numver of vertices (routers) and |E| is the number of edges (connections).
+*Space Complexity: O(|V| + |E|) for storing the Adjacency List in RAM using HashMap and ArrayList structures.
