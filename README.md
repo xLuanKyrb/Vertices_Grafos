@@ -18,9 +18,8 @@ The system was modularized into three main classes to organize testing and real-
 
 2. Execute the main class.
 
-=========================================
-          SISTEMA DE GRAFOS       
-=========================================
+          SISTEMA DE GRAFOS
+          
 1 - Atividade de Rede Completa (War Room)
 2 - Teste sobre o Grafo (Rede Social)
 0 - Sair
